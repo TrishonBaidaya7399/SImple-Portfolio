@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hello{
+    color: black;
+    cursor:url("./images/hello.png"),auto;
+}
